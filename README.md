@@ -61,6 +61,9 @@ The system automates the ingestion, parsing, balance validation, categorization,
 
 ## 🏗️ Architecture & Project Structure
 
+![System Architecture Diagram](architecture_diagram.png)
+
+### Directory Structure
 ```
 BankStatementAnalyzer/
 │
